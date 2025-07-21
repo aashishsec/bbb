@@ -1,0 +1,27 @@
+dlp_test_data:
+  aws_keys:
+    access_key_id: "AKIAIOSFODNN7EXAMPLE"
+    secret_access_key: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+  google_api_key: "AIzaSyA-FakeApiKey1234_fNQ7fZ1gqwertyuiopasdfghjk"
+
+  azure_storage_key: "n9Jp+9X8LgDpNf5cOqhk3l6ZzM7hv3T1ejxPY1Kc5S8pLnhTLOECG=="
+
+  jwt_token: >
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+    eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.
+    SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+  rsa_private_key: |
+    -----BEGIN RSA PRIVATE KEY-----
+    MIIEpAIBAAKCAQEAsdFlk+jB7qYQvy+3iL7sC5OvGp3f+GzW+N1G9tK8Yk0KswW5
+    K0Lf+K8+HwIDAQABAoIBAQCIfZT9QgVHaF7Vc3JQO20sMWsKqgh7l9NbhZMI4af9
+    ...snip...
+    -----END RSA PRIVATE KEY-----
+
+  personal_data:
+    email: "testuser@example.com"
+    ssn: "123-45-6789"
+    credit_card: "4111 1111 1111 1111"
+    iban: "DE89 3704 0044 0532 0130 00"
+    passport_number: "C01X00T35"
